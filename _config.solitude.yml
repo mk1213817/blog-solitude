@@ -43,14 +43,14 @@ nav:
       归档: /archives/ || fas fa-folder-closed # item name: link || icon
       分类: /categories/ || fas fa-clone
       标签: /tags/ || fas fa-tags
-    朋友:
-      朋友圈: /moments/ || fas fa-wifi
-      友人链: /links/ || fas fa-user-group
-      宝藏贴: javascript:travelling() || fas fa-gift
+    # 朋友:
+      # 朋友圈: /moments/ || fas fa-wifi
+      # 友人链: /links/ || fas fa-user-group
+      # 宝藏贴: javascript:travelling() || fas fa-gift
     常用:
-      我的装备: /equipment/ || fas fa-laptop
+      # 我的装备: /equipment/ || fas fa-laptop
       在线工具: /tlink/ || fas fa-toolbox
-      音乐时刻: /music/ || fas fa-music
+      # 音乐时刻: /music/ || fas fa-music
     关于: /about/
 
   # Right button
