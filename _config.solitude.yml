@@ -20,8 +20,8 @@
 site:
   name:
     class: text # text / i_class / img
-    custom: Solitude # Solitude / fas fa-ghost / /img/pwa/favicon.ico
-  icon: https://pan.811520.xyz/2024-10/1728197294016.webp # Site icon / 网站图标
+    custom: ZERO # Solitude / fas fa-ghost / /img/pwa/favicon.ico
+  icon: https://image.032618.xyz/images/long-1743818826268-ba944d7ed436f782d99fadd71236be63cba34af36ba515e29e9674157f9ab39f.jpg # Site icon / 网站图标
 # --------------------------- 网站信息 end ---------------------------
 
 # --------------------------- 导航栏 start ---------------------------
