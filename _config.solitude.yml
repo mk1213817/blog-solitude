@@ -69,7 +69,7 @@ nav:
 # Home Top Banner
 # 首页顶部
 hometop:
-  enable: true
+  enable: false
   banner:
     title: 宁静致远 <br> 热爱生活 # Tranquility <br>and love life / 宁静致远 <br> 热爱生活 # Title
     url: Hexo Theme Solitude
@@ -221,7 +221,7 @@ aside:
     runtimeenable: true
     # Format: yyyy-MM-dd hh-mm-ss
     # 格式: yyyy-MM-dd hh-mm-ss
-    runtime: "2023-04-20 00:00:00"
+    runtime: "2025-04-05 00:00:00"
   # --------------------------- 网站信息 end ---------------------------
 # --------------------------- 首页顶部 end ---------------------------
 
@@ -552,13 +552,13 @@ footer:
   # Information social icon
   # 社交信息图标
   information:
-    author: https://pan.811520.xyz/2024-10/1728197294016.webp # img url / false
+    author: https://image.032618.xyz/images/long-1743818826268-ba944d7ed436f782d99fadd71236be63cba34af36ba515e29e9674157f9ab39f.jpg # img url / false
     left:
-      Github: https://github.com/everfu || fab fa-github # Name: link || icon
-      Mail: mailto:o@everfu.cn || fab fa-envelope
+      Github: https://github.com/mk1213817 || fab fa-github # Name: link || icon
+      Mail: mk12138@gmail.com || fab fa-envelope
     right:
-      Bilibili: https://space.bilibili.com/1329819902 || fab fa-bilibili
-      Douyin: https://v.douyin.com/iJsLc8jt/ || fab fa-tiktok
+      Bilibili: https://space.bilibili.com/22756511 || fab fa-bilibili
+      Douyin: https://www.douyin.com/user/MS4wLjABAAAAaMAFwm9s0D4_RQZCmwgIeWWeWXZz1eLjHB383gZ6QXQ?from_tab_name=main/ || fab fa-tiktok
   group:
     # Navigation:
     #   Archives: /archives/
@@ -606,7 +606,7 @@ meting_api: "https://meting.everfu.cn/?server=:server&type=:type&id=:id&auth=:au
 # Music Page
 # 音乐馆
 music:
-  enable: true
+  enable: false
   # 歌单 ID / 单曲 ID
   id: 1994908354
   # 服务商：netease / qq / xiami / kugou / baidu
